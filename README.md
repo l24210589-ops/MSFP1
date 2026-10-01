@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Ramón Iván Morales Díaz \[24210589]; L24210589@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
