@@ -1,4 +1,4 @@
-\[!\[Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l24210589-ops/MSFP1)
 
 # Práctica 1: Diseño de controladores
 
@@ -31,7 +31,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 5. Emular la respuesta del circuito RLC en Simulink/Simscape al escalón, impulso, rampa y función sinusoidal.
 6. Sintonizar las ganancias de un controlador PID en Simulink/MATLAB para eliminar el error entre la entrada y la salida del sistema.
 7. Simular la respuesta del sistema en lazo abierto y lazo cerrado en Simulink/MATLAB al escalón, impulso, rampa y función sinusoidal.
-8. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en Spyder/Python con la función de transferencia.
+8. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en Python con la función de transferencia.
 
 ## Descripción detallada del sistema
 
@@ -41,9 +41,9 @@ Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo mate
 
 ## Lista de archivos incluidos en el repositorio
 
-1. Cuaderno computacional de MATLAB \[.mlx].
+1. Cuaderno computacional de MATLAB \[.mlx y .pdf].
 2. Modelo de Simulink \[.slx].
-3. Archivos de Spyder \[.py].
+3. Archivos de Python \[.py].
 4. Imagen con los parámetros del controlador.
 5. Imágenes de las simulaciones \[.pdf y .png].
 6. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
